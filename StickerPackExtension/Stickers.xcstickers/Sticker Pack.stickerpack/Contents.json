@@ -1,28 +1,52 @@
 {
   "stickers" : [
     {
+      "filename" : "HappyHead.sticker"
+    },
+    {
       "filename" : "HarambeTest.sticker"
     },
     {
-      "filename" : "Reliable.sticker"
+      "filename" : "Nah.sticker"
+    },
+    {
+      "filename" : "Booty.sticker"
+    },
+    {
+      "filename" : "Body.sticker"
+    },
+    {
+      "filename" : "BigBooty.sticker"
+    },
+    {
+      "filename" : "happyBody.sticker"
+    },
+    {
+      "filename" : "Head.sticker"
+    },
+    {
+      "filename" : "FullBody.sticker"
     },
     {
       "filename" : "Humble.sticker"
     },
     {
-      "filename" : "Majestic.sticker"
+      "filename" : "Amazing.sticker"
+    },
+    {
+      "filename" : "Reliable.sticker"
     },
     {
       "filename" : "Admirable.sticker"
     },
     {
-      "filename" : "Energetic.sticker"
-    },
-    {
-      "filename" : "Amazing.sticker"
+      "filename" : "Majestic.sticker"
     },
     {
       "filename" : "Brillient.sticker"
+    },
+    {
+      "filename" : "Energetic.sticker"
     }
   ],
   "info" : {
