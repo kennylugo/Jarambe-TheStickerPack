@@ -1,6 +1,6 @@
 # HonorHarambe
 
-## Brought to you by: 
+## Harambe Board Brought to you by: 
 ### Eric Wong
 ### Alex Dejeu
 ### Kenny Batista
