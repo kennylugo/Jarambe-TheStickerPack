@@ -5,4 +5,4 @@
 ### Alex Dejeu
 ### Kenny Batista
 
-### Shipped to the app store, almost live!
+### Shipped to the app store, rejected :( , resubmitted!
