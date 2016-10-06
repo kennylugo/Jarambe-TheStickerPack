@@ -6,4 +6,4 @@
 ### Kenny Batista
 
 ## Status
-### Shipped to the App Store twice, got rejected twice, just submitted again. Apple keeps on rejecting the app due to Harambe references that the public might get offended by
+### Shipped to the App Store twice, got rejected twice, just submitted again. Apple keeps on rejecting the app due to Harambe references that the public might get offended by. Currently waiting
