@@ -1,4 +1,4 @@
-# Jarambe - The Sticker Pack
+# Jarambe - The Sticker Pack :heart_eyes:
 
 ## Status
 #### Live & Ready for sale!
