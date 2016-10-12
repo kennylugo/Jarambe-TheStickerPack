@@ -1,7 +1,7 @@
 # :heart_eyes: Jarambe :heart_eyes: - The Sticker Pack 
 
 ## Status
-#### Live & Ready for sale!
+#### Live & Ready for sale! :white_check_mark:
 
 ## Harambe keyboard brought to you by: 
 #### Eric Wong :rage1:
