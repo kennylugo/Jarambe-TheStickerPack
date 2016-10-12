@@ -1,9 +1,9 @@
 # HonorHarambe
 
-## Harambe keyboard brought to you by: 
+#### Harambe keyboard brought to you by: 
+### Kenny Batista
 ### Eric Wong
 ### Alex Dejeu
-### Kenny Batista
 
-## Status
+#### Status
 ### Live & Ready for sale!
