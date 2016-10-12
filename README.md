@@ -1,4 +1,4 @@
-# HonorHarambe
+# Jarambe - The Sticker Pack
 
 ## Harambe keyboard brought to you by: 
 #### Kenny Batista
