@@ -1,9 +1,10 @@
-# Jarambe - The Sticker Pack
-
-## Harambe keyboard brought to you by: 
-#### Kenny Batista
-#### Eric Wong
-#### Alex Dejeu
+Jarambe - The Sticker Pack
 
 ## Status
 #### Live & Ready for sale!
+
+## Harambe keyboard brought to you by: 
+#### Eric Wong
+#### Alex Dejeu
+#### Kenny Batista
+
