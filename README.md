@@ -4,7 +4,7 @@
 #### Live & Ready for sale!
 
 ## Harambe keyboard brought to you by: 
-#### Eric Wong
-#### Alex Dejeu
-#### Kenny Batista
+#### Eric Wong :rage1:
+#### Alex Dejeu :godmode:
+#### Kenny Batista :finnadie:
 
