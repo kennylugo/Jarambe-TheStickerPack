@@ -2,7 +2,7 @@
 
 ## Status
 #### Live & Ready for sale! :white_check_mark:
-#### :moneybag: made so far: $57.00
+#### :moneybag: made so far: $67.00
 
 ## Harambe keyboard brought to you by: 
 #### Eric Wong :rage1:
