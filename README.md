@@ -9,3 +9,5 @@
 #### Alex Dejeu :godmode:
 #### Kenny Batista :finnadie:
 
+
+![Jarambe 1](https://github.com/kennybatista/Jarambe-TheStickerPack/blob/master/jarambe1.png)
