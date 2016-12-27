@@ -1,6 +1,6 @@
 # :heart_eyes: Jarambe :heart_eyes: - The Sticker Pack 
 
-## Status
+## Status:
 #### Live & Ready for sale! :white_check_mark:
 #### :moneybag: made so far: $67.50
 
